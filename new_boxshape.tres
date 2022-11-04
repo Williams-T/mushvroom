@@ -1,0 +1,4 @@
+[gd_resource type="BoxShape" format=2]
+
+[resource]
+extents = Vector3( 28.8539, 0.201566, 19.9732 )
